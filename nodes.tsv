@@ -1,0 +1,236 @@
+ID	TSN	Name	Phylum
+1	10824	Pilayella littoralis	Phaeophyta
+2	11217	Laminaria	Phaeophyta
+3	11246	Agarum	Phaeophyta
+4	11250	Costaria costata	Phaeophyta
+5	11255	Saccharina sessile	Phaeophyta
+6	11277	Nereocystis luetkeana	Phaeophyta
+7	11289	Alaria	Phaeophyta
+8	11314	Desmarestia	Phaeophyta
+9	113265	Staphylinidae	Arthropoda
+10	11334	Fucus	Phaeophyta
+11	11365	Cystoseira	Phaeophyta
+12	11424	Colpomenia	Phaeophyta
+13	11531	Bangia	Rhodophyta
+14	11540	Porphyra	Rhodophyta
+15	12322	Corallina	Rhodophyta
+16	12441	Bossiella	Rhodophyta
+17	12841	Palmaria	Rhodophyta
+18	13080	Microcladia	Rhodophyta
+19	13440	Polysiphonia	Rhodophyta
+20	13583	Odonthalia	Rhodophyta
+21	14035	Caloplaca	Ascomycota
+22	14050	Verrucaria	Ascomycota
+23	1447	Chrysophyta	Chrysophyta
+24	154883	Phascolosomatidae	Sipuncula
+25	155456	Phoronida	Phoronida
+26	155471	Gymnolaemata	Ectoprocta
+27	156829	Terebratalia transversa	Brachiopoda
+28	157075	Solaster dawsoni	Echinodermata
+29	157076	Solaster endeca	Echinodermata
+30	157078	Solaster stimpsoni	Echinodermata
+31	157139	Dermasterias imbricata	Echinodermata
+32	157152	Henricia	Echinodermata
+33	157224	Evasterias troschelii	Echinodermata
+34	157225	Leptasterias	Echinodermata
+35	157270	Orthasterias koehleri	Echinodermata
+36	157274	Pycnopodia helianthoides	Echinodermata
+37	157325	Ophiuroidea	Echinodermata
+38	157969	Strongylocentrotus droebachiensis	Echinodermata
+39	158187	Eupentacta	Echinodermata
+40	158191	Cucumaria	Echinodermata
+41	158423	Apodacea	Echinodermata
+42	159300	Styela	Chordata
+43	159446	Pyura	Chordata
+44	162030	Hypomesus pretiosus	Chordata
+45	164457	Gobiesocidae	Chordata
+46	166365	Gasterosteus aculeatus	Chordata
+47	167211	Artedius	Chordata
+48	167222	Clinocottus	Chordata
+49	167279	Hemilepidotus hemilepidotus	Chordata
+50	167333	Oligocottus maculosus	Chordata
+51	170919	Trichodon trichodon	Chordata
+52	171564	Anoplarchus purpurescens	Chordata
+53	171598	Xiphister atropurpureus	Chordata
+54	171599	Xiphister mucosus	Chordata
+55	171637	Pholis	Chordata
+56	171672	Ammodytes hexapterus	Chordata
+57	180092	Homo sapiens	Chordata
+58	180547	Enhydra lutris	Chordata
+59	180603	Vulpes	Chordata
+60	180625	Eumetopias jubatus	Chordata
+61	180649	Phoca vitulina	Chordata
+62	202421	Bacteria	Bacteria
+63	2135	Prymnesiophyceae	Haptophyta
+64	2286	Bacillariophyta	Bacillariophyta
+65	39074	Zostera marina	Magnoliophyta
+66	43781	Sarcomastigophora	Sarcomastigophora
+67	44030	Foraminiferida	Protozoa
+68	46088	Radiolaria	Protozoa
+69	46211	Ciliophora	Ciliophora
+70	47771	Haliclona	Porifera
+71	48005	Ophlitaspongia	Porifera
+72	48396	Halichondria panicea	Porifera
+73	48739	Hydrozoa	Cnidaria
+74	52551	Anthopleura	Cnidaria
+75	52562	Epiactis	Cnidaria
+76	52569	Urticina	Cnidaria
+77	52737	Metridium senile	Cnidaria
+78	557227	Enteroctopus dofleini	Mollusca
+79	566908	Pharidae	Mollusca
+80	567816	Lottia digitalis	Mollusca
+81	567823	Lottia pelta	Mollusca
+82	568350	Lottia persona	Mollusca
+83	568351	Lottia scutum	Mollusca
+84	57443	Lineidae	Nemertea
+85	57493	Emplectonematidae	Nemertea
+86	57522	Amphiporidae	Nemertea
+87	601	Cyanophycota	Cyanophycota
+88	64397	Polynoidae	Annelida
+89	6501	Ulvaceae	Chlorophyta
+90	656266	Balanus nubilus	Arthropoda
+91	65870	Nereididae	Annelida
+92	66101	Glyceridae	Annelida
+93	66335	Lumbrineridae	Annelida
+94	6720	Acrosiphoniaceae	Chlorophyta
+95	67224	Flabelligeridae	Annelida
+96	6746	Cladophoraceae	Chlorophyta
+97	67899	Terebellidae	Annelida
+98	68076	Sabellidae	Annelida
+99	6895	Codiaceae	Chlorophyta
+100	69662	Acmaea mitra	Mollusca
+101	69794	Trochidae	Mollusca
+102	70370	Lacuna	Mollusca
+103	70395	Littorina	Mollusca
+104	72023	Cerithiopsis	Mollusca
+105	72600	Trichotropis cancellata	Mollusca
+106	72711	Velutina	Mollusca
+107	72878	Naticidae	Mollusca
+108	73017	Fusitriton	Mollusca
+109	73293	Nucella canaliculata	Mollusca
+110	73294	Nucella lamellosa	Mollusca
+111	73296	Nucella lima	Mollusca
+112	73727	Buccinum	Mollusca
+113	76444	Siphonaria thersites	Mollusca
+114	78188	Diaulula sandiegensis	Mollusca
+115	78211	Rostanga pulchra	Mollusca
+116	78213	Archidoris montereyensis	Mollusca
+117	78215	Archidoris odhneri	Mollusca
+118	78332	Triopha catalinae	Mollusca
+119	78699	Hermissenda crassicornis	Mollusca
+120	78728	Aeolidia papillosa	Mollusca
+121	78761	Onchidella	Mollusca
+122	78819	Leptochiton rugatus	Mollusca
+123	78897	Tonicella	Mollusca
+124	78979	Katharina tunicata	Mollusca
+125	78980	Mopalia	Mollusca
+126	79032	Cryptochiton stelleri	Mollusca
+127	79452	Mytilus	Mollusca
+128	79500	Modiolus	Mollusca
+129	79791	Pododesmus	Mollusca
+130	80866	Clinocardium	Mollusca
+131	80954	Tresus	Mollusca
+132	80982	Mactromeris	Mollusca
+133	81033	Macoma	Mollusca
+134	81446	Saxidomus	Mollusca
+135	81464	Protothaca staminea	Mollusca
+136	81760	Hiatellidae	Mollusca
+137	81910	Entodesma	Mollusca
+138	82770	Prostigmata	Arthropoda
+139	83545	Pycnogonida	Arthropoda
+140	84195	Ostracoda	Arthropoda
+141	86329	Harpacticidae	Arthropoda
+142	89592	Chthamalus dalli	Arthropoda
+143	89606	Balanus crenatus	Arthropoda
+144	89609	Balanus glandula	Arthropoda
+145	89687	Semibalanus balanoides	Arthropoda
+146	89688	Semibalanus cariosus	Arthropoda
+147	92283	Sphaeromatidae	Arthropoda
+148	92426	Limnoria	Arthropoda
+149	92564	Idoteidae	Arthropoda
+150	93295	Gammaridea	Arthropoda
+151	9512	Prasinophyta	Prasinophyta
+152	95375	Caprellidae	Arthropoda
+153	95500	Euphausiidae	Arthropoda
+154	96746	Hippolytidae	Arthropoda
+155	97106	Crangonidae	Arthropoda
+156	97774	Paguridae	Arthropoda
+157	98432	Mimulus	Arthropoda
+158	98435	Pugettia	Arthropoda
+159	98449	Scyra	Arthropoda
+160	98663	Telmessus cheiragonus	Arthropoda
+161	98671	Cancer	Arthropoda
+162	9874	Dinophyceae	Pyrrophycophyta
+163	san12	Mastocarpus	Rhodophyta
+164	san14	Mazzaella	Rhodophyta
+165	san21	Neorhodomela	Rhodophyta
+166	san252	Phaeophyta Crust	Phaeophyta
+167	san262	Crustose coralline algae complex	Rhodophyta
+168	san266	Detritus complex	NA
+169	san272	Biofilm Complex	NA
+170	san338	Red crust complex	Rhodophyta
+171	san339	Chlorophyta Crust	Chlorophyta
+172	174468	Gavia	Chordata
+173	174478	Podiceps	Chordata
+174	174513	Diomedeidae	Chordata
+175	174536	Fulmarus glacialis	Chordata
+176	174554	Puffinus tenuirostris	Chordata
+177	174624	Oceanodroma	Chordata
+178	174717	Phalacrocorax auritus	Chordata
+179	174725	Phalacrocorax pelagicus	Chordata
+180	174987	Cygnus columbianus	Chordata
+181	174999	Branta canadensis	Chordata
+182	175011	Branta bernicla	Chordata
+183	175042	Chen canagica	Chordata
+184	175062	Anas	Chordata
+185	175130	Aythya marila	Chordata
+186	175140	Bucephala	Chordata
+187	175147	Clangula hyemalis	Chordata
+188	175149	Histrionicus histrionicus	Chordata
+189	175153	Polysticta stelleri	Chordata
+190	175155	Somateria mollissima	Chordata
+191	175160	Somateria spectabilis	Chordata
+192	175163	Melanitta fusca	Chordata
+193	175170	Melanitta perspicillata	Chordata
+194	175171	Melanitta nigra	Chordata
+195	175184	Mergus	Chordata
+196	175373	Buteo lagopus	Chordata
+197	175407	Aquila chrysaetos	Chordata
+198	175420	Haliaeetus leucocephalus	Chordata
+199	175599	Falco rusticolus	Chordata
+200	175604	Falco peregrinus	Chordata
+201	176177	Grus canadensis	Chordata
+202	176475	Haematopus bachmani	Chordata
+203	176506	Charadrius semipalmatus	Chordata
+204	176614	Tringa melanoleuca	Chordata
+205	176630	Tringa incana	Chordata
+206	176641	Calidris	Chordata
+207	176687	Limosa lapponica	Chordata
+208	176698	Gallinago	Chordata
+209	176735	Phalaropus lobatus	Chordata
+210	176793	Stercorarius parasiticus	Chordata
+211	176808	Larus hyperboreus	Chordata
+212	176814	Larus glaucescens	Chordata
+213	176824	Larus argentatus	Chordata
+214	176832	Larus canus	Chordata
+215	176875	Rissa tridactyla	Chordata
+216	176885	Sterna	Chordata
+217	176974	Uria aalge	Chordata
+218	176978	Uria lomvia	Chordata
+219	176991	Cepphus columba	Chordata
+220	176996	Brachyramphus marmoratus	Chordata
+221	177008	Synthliboramphus antiquus	Chordata
+222	177013	Ptychoramphus aleuticus	Chordata
+223	177019	Aethia cristatella	Chordata
+224	177029	Fratercula corniculata	Chordata
+225	177032	Fratercula cirrhata	Chordata
+226	177935	Asio flammeus	Chordata
+227	178511	Lanius excubitor	Chordata
+228	179492	Melospiza melodia	Chordata
+229	179526	Calcarius lapponicus	Chordata
+230	179531	Plectrophenax	Chordata
+231	179725	Corvus corax	Chordata
+232	554029	Aethia psittacula	Chordata
+233	554127	Anthus rubescens	Chordata
+234	686683	Bubo scandiacus	Chordata
+235	78536	Cinclus mexicanus	Mollusca
